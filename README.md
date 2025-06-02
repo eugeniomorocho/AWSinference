@@ -1,6 +1,6 @@
 # 🔍 FastAPI + Machine Learning + HTML Form
 
-A simple API built with **FastAPI** to serve predictions from a Machine Learning model (Scikit-learn or Keras). It includes a basic HTML form to input data and display the model's prediction in a web interface.
+A simple API built with **FastAPI** to serve predictions from a Machine Learning model (Scikit-learn or Keras) hosted in Amazon Web Services (AWS). It includes a basic HTML form to input data and display the model's prediction in a web interface.
 
 ## 🚀 Run the App
 
